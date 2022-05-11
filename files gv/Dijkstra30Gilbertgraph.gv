@@ -1,0 +1,61 @@
+digraph my_graph {
+26 [label=nodo_26(0.0)]
+9 [label=nodo_9(2.0)]
+0 [label=nodo_0(5.0)]
+21 [label=nodo_21(6.0)]
+1 [label=nodo_1(15.0)]
+19 [label=nodo_19(8.0)]
+12 [label=nodo_12(12.0)]
+2 [label=nodo_2(14.0)]
+27 [label=nodo_27(6.0)]
+3 [label=nodo_3(10.0)]
+22 [label=nodo_22(8.0)]
+4 [label=nodo_4(10.0)]
+5 [label=nodo_5(10.0)]
+6 [label=nodo_6(16.0)]
+18 [label=nodo_18(12.0)]
+7 [label=nodo_7(14.0)]
+17 [label=nodo_17(12.0)]
+8 [label=nodo_8(22.0)]
+10 [label=nodo_10(10.0)]
+11 [label=nodo_11(15.0)]
+13 [label=nodo_13(11.0)]
+14 [label=nodo_14(19.0)]
+15 [label=nodo_15(12.0)]
+25 [label=nodo_25(8.0)]
+16 [label=nodo_16(11.0)]
+28 [label=nodo_28(19.0)]
+20 [label=nodo_20(25.0)]
+23 [label=nodo_23(15.0)]
+24 [label=nodo_24(13.0)]
+29 [label=nodo_29(14.0)]
+26->9
+9->0
+9->21
+21->1
+9->19
+19->12
+12->2
+9->27
+27->3
+27->22
+22->4
+22->5
+21->6
+19->18
+18->7
+22->17
+17->8
+9->10
+26->11
+22->13
+18->14
+22->15
+27->25
+25->16
+0->28
+28->20
+21->23
+9->24
+4->29
+}
